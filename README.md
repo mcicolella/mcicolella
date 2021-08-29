@@ -24,5 +24,4 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcicolella&show_icons=true)  
   
-![Metrics](github-metrics.svg)
 
