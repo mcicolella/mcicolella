@@ -1,10 +1,7 @@
 ### Hi there 👋, my name is Mauro ![Profile views](https://gpvc.arturio.dev/mcicolella)
 #### I am a freelance software developer and ICT consultant
 
-<p>
-  <a href="https://www.linkedin.com/in/mauro-cicolella-0b107076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-    <a href="https://twitter.com/emmecilab"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  [![YouTube Subscribe](https://img.shields.io/badge/YouTube_@EmmeCiLab-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/c/emmecilab?sub_confirmation=1) 
+[![YouTube Subscribe](https://img.shields.io/badge/YouTube_@EmmeCiLab-SUBSCRIBE-red?logo=youtube&style=for-the-badge&logoColor=red)](https://www.youtube.com/c/emmecilab?sub_confirmation=1) 
 
 I like IoT and home automation
 
