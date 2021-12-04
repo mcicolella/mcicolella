@@ -19,6 +19,8 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmeCiLab-114063663344644)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.emmecilab.net)  
 
+---
+
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -29,8 +31,7 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 - [Nuova vita per un Acer Aspire One del 2013](https://youtu.be/c1axV38Q0gA)
 <!-- YOUTUBE:END -->
 
-▶ [more videos...][youtube]
-
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcicolella&show_icons=true)  
   
