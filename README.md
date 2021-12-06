@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mauro ![Profile views](https://gpvc.arturio.dev/mcicolella)
 #### I am a freelance software developer and ICT consultant
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwTjA-PulR8QrL6C2tiBrDg?label=EmmeCiLab-SUBSCRIBE&style=plastic)](https://www.youtube.com/c/emmecilab?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwTjA-PulR8QrL6C2tiBrDg?label=EmmeCiLab YouTube SUBSCRIBE&style=plastic)](https://www.youtube.com/c/emmecilab?sub_confirmation=1)
 
 I like IoT and home automation
 
