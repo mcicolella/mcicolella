@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Mauro ![Profile views](https://gpvc.arturio.dev/mcicolella)
+### Hi there 👋, my name is Mauro 
 #### I am a freelance software developer and ICT consultant
 
+![Profile views](https://gpvc.arturio.dev/mcicolella)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwTjA-PulR8QrL6C2tiBrDg?label=SUBSCRIBE-EmmeCiLab&style=plastic)](https://www.youtube.com/c/emmecilab?sub_confirmation=1)
 
 I like IoT and home automation
@@ -17,13 +18,13 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 😄 Pronouns: he/him 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmeCiLab-114063663344644)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.emmecilab.net)  
 
 ---
 
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pillole di Kubernetes: KinD K8s in Docker](https://youtu.be/DEtGCraEE_o)
 - [Tutorial Camtasia 2021: zoom & pan](https://youtu.be/bZQOaf27MBc)
 - [Su Docker Hub con le GitHub Actions](https://youtu.be/AGldK5g30Xg)
 - [Tutorial Camtasia 2021: una panoramica](https://youtu.be/H3tXtRRCjjo)
