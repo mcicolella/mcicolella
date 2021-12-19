@@ -24,12 +24,17 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
+- [Pillole di Kubernetes: port forwarding](https://youtu.be/uMt07_SgJu8)
+- [Spring Boot: deploy di una applicazione su Kubernetes](https://youtu.be/OJULEgBJDW8)
 - [Pillole di Kubernetes: KinD K8s in Docker](https://youtu.be/DEtGCraEE_o)
 - [Tutorial Camtasia 2021: zoom & pan](https://youtu.be/bZQOaf27MBc)
 - [Su Docker Hub con le GitHub Actions](https://youtu.be/AGldK5g30Xg)
 - [Tutorial Camtasia 2021: una panoramica](https://youtu.be/H3tXtRRCjjo)
 - [Come creare l'immagine ISO di un CD/DVD su Linux](https://youtu.be/VnnCHCc3Lqc)
 - [Nuova vita per un Acer Aspire One del 2013](https://youtu.be/c1axV38Q0gA)
+and much more ...
+
 <!-- YOUTUBE:END -->
 
 ---
