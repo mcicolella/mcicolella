@@ -12,7 +12,7 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 🌱 I’m currently learning Kubernetes, scalable architectures 
 
-🤔 I’m looking for help with @Freedomotic project 
+🤔 I’m looking for help with @Freedomotic project (https://github.com/freedomotic) 
 
 📫 How to reach me: info@emmecilab.net 
 
@@ -25,6 +25,7 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 <!-- YOUTUBE:START -->
 
+- [Corso di Java Spring Framework #1:una panoramica](https://youtu.be/_4QFC_LB9OQ)
 - [Pillole di Kubernetes: port forwarding](https://youtu.be/uMt07_SgJu8)
 - [Spring Boot: deploy di una applicazione su Kubernetes](https://youtu.be/OJULEgBJDW8)
 - [Pillole di Kubernetes: KinD K8s in Docker](https://youtu.be/DEtGCraEE_o)
