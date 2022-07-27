@@ -25,6 +25,9 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 <!-- YOUTUBE:START -->
 
+- [AOP Aspect Oriented Programming in Spring #1](https://youtu.be/8OKC3c6ryKg)
+- [Applicazioni sicure con Keycloack e Docker](https://youtu.be/2_nnPboQd5w)
+- [Integrazione piattaforma PayPal #1: impostiamo la sandbox](https://youtu.be/rmq14D10Gl0)
 - [Come usare RabbitMQ con Spring Boot](https://youtu.be/09OPikwK05M)
 - [Corso di Java Spring Framework #4: Bean (prima parte)](https://youtu.be/mxPUSiPiOLU)
 - [Corso di Java Spring Framework #3: Inversion of Control vs Dependency Injection](https://youtu.be/jVzPUh_1mPo)
@@ -32,9 +35,6 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 - [Corso di Java Spring Framework #1:una panoramica](https://youtu.be/_4QFC_LB9OQ)
 - [Pillole di Kubernetes: port forwarding](https://youtu.be/uMt07_SgJu8)
 - [Spring Boot: deploy di una applicazione su Kubernetes](https://youtu.be/OJULEgBJDW8)
-- [Pillole di Kubernetes: KinD K8s in Docker](https://youtu.be/DEtGCraEE_o)
-- [Tutorial Camtasia 2021: zoom & pan](https://youtu.be/bZQOaf27MBc)
-- [Su Docker Hub con le GitHub Actions](https://youtu.be/AGldK5g30Xg)
 and much more ...
 
 <!-- YOUTUBE:END -->
