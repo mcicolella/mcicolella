@@ -3,6 +3,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mcicolella)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwTjA-PulR8QrL6C2tiBrDg?label=SUBSCRIBE-EmmeCiLab&style=plastic)](https://www.youtube.com/c/emmecilab?sub_confirmation=1)
+[	![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/emmecilab)
 
 I like IoT and home automation
 
