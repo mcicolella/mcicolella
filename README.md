@@ -41,7 +41,5 @@ and much more ...
 <!-- YOUTUBE:END -->
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcicolella&show_icons=true)  
   
 
