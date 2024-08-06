@@ -24,16 +24,13 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 <!-- YOUTUBE:START -->
 
+- [Interview Time Informatica | Domande e risposte ai colloqui](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co_sQhv5iRZvAVh604af-G7)
+- [IL MIO HOMELAB #7 | Installazione di Home Assistant su Proxmox](https://youtu.be/y8I7DmjaOL0)
+- [IL MIO HOMELAB #1 | Unboxing e primo avvio del server HP EliteDesk 800 G1 SFF](https://youtu.be/VnjoQesWtQo)
+- [Connessioni Internet senza segreti | ADSL | FTTC | FTTH | FWA | WIRELESS](https://youtu.be/o5q0dHLrQg0)
+- [CORSO COMPLETO SPRING #14 | Gestire l'ordine di creazione dei bean](https://youtu.be/puaOQq2TcJA)
 - [AOP Aspect Oriented Programming in Spring #1](https://youtu.be/8OKC3c6ryKg)
 - [Applicazioni sicure con Keycloack e Docker](https://youtu.be/2_nnPboQd5w)
-- [Integrazione piattaforma PayPal #1: impostiamo la sandbox](https://youtu.be/rmq14D10Gl0)
-- [Come usare RabbitMQ con Spring Boot](https://youtu.be/09OPikwK05M)
-- [Corso di Java Spring Framework #4: Bean (prima parte)](https://youtu.be/mxPUSiPiOLU)
-- [Corso di Java Spring Framework #3: Inversion of Control vs Dependency Injection](https://youtu.be/jVzPUh_1mPo)
-- [Corso di Java Spring Framework #2: convention over configuration](https://youtu.be/OeSgB4my-4U)
-- [Corso di Java Spring Framework #1:una panoramica](https://youtu.be/_4QFC_LB9OQ)
-- [Pillole di Kubernetes: port forwarding](https://youtu.be/uMt07_SgJu8)
-- [Spring Boot: deploy di una applicazione su Kubernetes](https://youtu.be/OJULEgBJDW8)
 and much more ...
 
 <!-- YOUTUBE:END -->
