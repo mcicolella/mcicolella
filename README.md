@@ -24,6 +24,7 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 <!-- YOUTUBE:START -->
 
+- [DOMOTICA CON HOME ASSISTANT](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrBaVswkHiwPy5KaKFzS4PP)
 - [INTELLIGENZA ARTIFICIALE | Immagini gratis senza censura con Fooocus e Google Colab](https://youtu.be/P8IZyB4VKd8)
 - [Interview Time Informatica | Domande e risposte ai colloqui](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co_sQhv5iRZvAVh604af-G7)
 - [IL MIO HOMELAB #7 | Installazione di Home Assistant su Proxmox](https://youtu.be/y8I7DmjaOL0)
