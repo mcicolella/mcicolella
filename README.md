@@ -17,7 +17,7 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 😄 Pronouns: he/him 
 
-
+Support my activities with Amazon affiliate links https://www.amazon.it/shop/emmecilab-informaticaematematica?isPublicView=true&linkCode=sl2&tag=emmecilab0e-21&linkId=08d35500da3b2038f483718169bdca62&language=it_IT&ref_=as_li_ss_tl
 ---
 
 ### 🎥 Latest YouTube Videos
@@ -25,12 +25,12 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 <!-- YOUTUBE:START -->
 
 - [DOMOTICA CON HOME ASSISTANT](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrBaVswkHiwPy5KaKFzS4PP)
+- [CORSO COMPLETO SPRING](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA)
+- [CONCETTI DI INFORMATICA - PODCAST](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqEs3UCfU5Agc8CLcsKTKU6)
 - [INTELLIGENZA ARTIFICIALE | Immagini gratis senza censura con Fooocus e Google Colab](https://youtu.be/P8IZyB4VKd8)
 - [Interview Time Informatica | Domande e risposte ai colloqui](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co_sQhv5iRZvAVh604af-G7)
-- [IL MIO HOMELAB #7 | Installazione di Home Assistant su Proxmox](https://youtu.be/y8I7DmjaOL0)
-- [IL MIO HOMELAB #1 | Unboxing e primo avvio del server HP EliteDesk 800 G1 SFF](https://youtu.be/VnjoQesWtQo)
+- [IL MIO HOMELAB](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cp5vRtSTJc4aPrrbgaXpkcT)
 - [Connessioni Internet senza segreti | ADSL | FTTC | FTTH | FWA | WIRELESS](https://youtu.be/o5q0dHLrQg0)
-- [CORSO COMPLETO SPRING #14 | Gestire l'ordine di creazione dei bean](https://youtu.be/puaOQq2TcJA)
 - [AOP Aspect Oriented Programming in Spring #1](https://youtu.be/8OKC3c6ryKg)
 - [Applicazioni sicure con Keycloack e Docker](https://youtu.be/2_nnPboQd5w)
 and much more ...
