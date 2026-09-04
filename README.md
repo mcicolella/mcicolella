@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Mauro 
 #### I am a freelance software developer and ICT consultant
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwTjA-PulR8QrL6C2tiBrDg?label=SUBSCRIBE-EmmeCiLab&style=plastic)](https://www.youtube.com/c/emmecilab?sub_confirmation=1)
-
 I like IoT and home automation
 
 Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
