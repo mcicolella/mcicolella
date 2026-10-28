@@ -7,7 +7,7 @@ Skills: JAVA | SPRING | SPRING BOOT | DATABASE | APIs
 
 🔭 I’m currently working on many projects full remote
 
-🌱 I’m currently learning Kubernetes, scalable architectures 
+🌱 I’m developing a project about a virtual AI model exploring many tech, communication and marketing solutions (https://zaliacosta.it)
 
 🤔 I’m looking for help with @Freedomotic project (https://github.com/freedomotic) 
 
